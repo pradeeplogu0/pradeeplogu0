@@ -1,7 +1,7 @@
 # Hi.... 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media0.giphy.com/media/okWCAjMp0pInC/giphy.gif?cid=ecf05e47kaabzjavmvum8ame8ebmgqws6hm761x9pexkgvwc&rid=giphy.gif&ct=g">
 </div>
 
 </br>
@@ -23,6 +23,8 @@
 - ✨ Embedded System
 - ✨ Programming & ML
 - ✨ Web Design
+- ✨ Ethical Hacking
+- ✨ Meme Making
 
 ### - Hobbies : 
 - ✨ Gaming
