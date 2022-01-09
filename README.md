@@ -13,7 +13,7 @@
 
 ### - I'm 23 years  old Embedded & Programming Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/kMvnYUB.gif">
 
 
 
