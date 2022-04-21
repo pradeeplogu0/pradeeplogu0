@@ -1,21 +1,9 @@
-# Hi.... 👋
-
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media0.giphy.com/media/okWCAjMp0pInC/giphy.gif?cid=ecf05e47kaabzjavmvum8ame8ebmgqws6hm761x9pexkgvwc&rid=giphy.gif&ct=g">
-</div>
-
-</br>
-</br>
-</br>
-
 
 # About ME 💬 :
 
 ### - I'm a Embedded & Programming Enthusiast from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/kMvnYUB.gif">
-
-
 
 
 
