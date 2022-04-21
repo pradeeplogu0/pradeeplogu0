@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 23 years  old Embedded & Programming Enthusiast from India.
+### - I'm a Embedded & Programming Enthusiast from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://i.imgur.com/kMvnYUB.gif">
 
